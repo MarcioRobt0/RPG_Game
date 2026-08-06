@@ -176,5 +176,3 @@ Este é um projeto pessoal sem licença específica.
 **MarcioRobt0** - Desenvolvedor
 
 ---
-
-Divirta-se no jogo! 🎮✨
